@@ -1,0 +1,16 @@
+input{
+    background-color: rgb(72, 148, 148);
+    color: white;
+    outline: none;
+}
+
+button {
+    height: 21px;
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+    border: none;
+    width: 43px;
+    outline: none;
+    border-radius: 6px;
+  }
